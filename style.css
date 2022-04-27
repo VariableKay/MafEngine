@@ -1,0 +1,27 @@
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(210,91,40,1) 0%, rgba(255,192,0,1) 100%);
+}
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 54px;
+  color: black;
+  text-align: center
+}
+p {
+  font-family: 'M PLUS 2', sans-serif;
+  font-size: 24px;
+  color: black;
+  text-align: center
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 24px
+}
